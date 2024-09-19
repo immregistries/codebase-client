@@ -5,7 +5,7 @@
 
 	<groupId>org.immregistries</groupId>
 	<artifactId>codebase-client</artifactId>
-	<version>2.3.1</version>
+	<version>3.0.0</version>
 	<packaging>jar</packaging>
 
 	<name>Client Jar for using the Codebase</name>
